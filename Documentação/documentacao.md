@@ -5,11 +5,10 @@ Este repositório contém o código-fonte do protótipo de plugin desenvolvido p
 Estrutura do Repositório
 O repositório está organizado da seguinte forma:
 
-/src: Contém o código-fonte do plugin.
-/config: Arquivos de configuração necessários para a instalação e personalização do plugin.
-/docs: Documentação adicional e instruções detalhadas sobre o uso e a instalação do plugin.
+/Código-Fonte: Contém o código-fonte do plugin.
+/Documentação: Documentação adicional e instruções detalhadas sobre o uso e a instalação do plugin.
 documentacao.md: Este arquivo, que fornece informações gerais sobre o projeto e orientações de uso.
-/tests: Scripts e arquivos de teste para validar o funcionamento do plugin.
+/Assets: arquivos de prints de algumas das  telas do funcionamento do plugin.
 
 Requisitos
 Moodle versão 3.9 ou superior.
@@ -19,7 +18,7 @@ Banco de dados MySQL ou PostgreSQL compatível com o Moodle.
 Instalação:
 1-Clone este repositório para o diretório de plugins do Moodle em seu servidor.
     bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/leonardolcruz/MoodleXperience
 
 2-Acesse a interface administrativa do Moodle e siga as instruções para instalação do plugin.
 3-Configure o plugin conforme necessário, utilizando os arquivos disponíveis na pasta /config.

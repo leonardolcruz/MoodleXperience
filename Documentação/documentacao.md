@@ -7,8 +7,10 @@ Este repositório contém o código-fonte do protótipo de plugin desenvolvido p
 O repositório está organizado da seguinte forma:
 
 /Código-Fonte: Contém o código-fonte do plugin.
+
 /Documentação: Documentação adicional e instruções detalhadas sobre o uso e a instalação do plugin.
 documentacao.md: Este arquivo, que fornece informações gerais sobre o projeto e orientações de uso.
+
 /Assets: arquivos de prints de algumas das  telas do funcionamento do plugin.
 
 ## Requisitos

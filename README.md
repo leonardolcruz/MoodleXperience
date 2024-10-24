@@ -13,6 +13,6 @@ Este repositório contém um plugin desenvolvido para coletar e analisar dados e
 
 
 ## Requisitos
-- Moodle versão 3.11 ou superior.
-- Servidor com suporte PHP 7.4+.
+- Moodle versão 3.9 ou superior.
+- Servidor com suporte PHP 7.2+.
 
